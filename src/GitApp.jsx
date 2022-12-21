@@ -3,7 +3,7 @@ import { AddCategory } from './components/AddCategory';
 import { GitGrid } from './components/GitGrid';
 
 export const GitApp = () => {
-    const [categories, setCategories] = useState(['one punch']);
+    const [categories, setCategories] = useState(['Goku']);
     
     return (
         <>
